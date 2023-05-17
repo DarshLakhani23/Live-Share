@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389265001444",
+    "project_id": "live-share-b953a",
+    "storage_bucket": "live-share-b953a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389265001444:android:e2a65ea7c3d6a9b1e3d5f1",
+        "android_client_info": {
+          "package_name": "com.example.live_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389265001444-fu4vobcumimsgquao00r1ei7qm28j0q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWAwo0Q1Js75bWwh4t-NZ-jTE9bP1iC8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389265001444-fu4vobcumimsgquao00r1ei7qm28j0q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
